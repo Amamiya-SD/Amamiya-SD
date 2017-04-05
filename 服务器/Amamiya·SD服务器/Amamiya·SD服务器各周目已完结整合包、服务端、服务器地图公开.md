@@ -4,8 +4,8 @@
 
 #Amamiya·SD7.8(7.8周目)  
 简介:本周目(Amamiya·SD2 Reload)也就是基于二周目整合重制而来，更新了几乎全部mod，新加入了一些mod，比如TC的几大拓展、巫术、血魔法、星系、核电工艺、  binnie、Deep Resonance、重力枪还有格雷科技矿脉定位器等辅助mod的加入。极大丰富了游戏内容。并移除了TE。  
-客户端:  
-服务端+地图:  
+客户端:  http://pan.baidu.com/s/1bHop3K
+服务端+地图:  http://pan.baidu.com/s/1dFvJG1j
   
   
   
