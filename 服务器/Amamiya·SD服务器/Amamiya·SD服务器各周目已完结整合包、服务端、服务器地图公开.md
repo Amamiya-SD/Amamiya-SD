@@ -4,25 +4,25 @@
 
 
 #Amamiya·SD8-Reload(8周目重置)  
-简介:基于之前的1.10.2整合更新了所有mod。有Better Quests(任务)，Quark(地形生成+原版调整)，和很多1.10.2新出的mod，比如RefinedStorage。
-客户端:
-服务端+地图:
+简介:基于之前的1.10.2整合更新了所有mod。有Better Quests(任务)，Quark(地形生成+原版调整)，和很多1.10.2新出的mod，比如RefinedStorage。   
+客户端:   
+服务端+地图:   
 
 
 
 #Amamiya·SD8.1周目
-简介:本周目以MineFantasyII(我的幻想2)为核心，同时有roc这样的科技mod，还有ChromatiCraft这样的新奇mod。mod总数只有37，但可玩性还是可以的。1.7.10
-客户端:http://pan.baidu.com/s/1jH96wV8  
-服务端+地图:http://pan.baidu.com/s/1hswt3u8  
+简介:本周目以MineFantasyII(我的幻想2)为核心，同时有roc这样的科技mod，还有ChromatiCraft这样的新奇mod。mod总数只有37，但可玩性还是可以的。1.7.10   
+客户端:http://pan.baidu.com/s/1jH96wV8    
+服务端+地图:http://pan.baidu.com/s/1hswt3u8    
 #Amamiya·SD8(8周目)  
 简介:1.10.2整合。  
 
 
 
 #Amamiya·SD7.8(7.8周目)  
-简介:本周目(Amamiya·SD2 Reload)也就是基于二周目整合重制而来，更新了几乎全部mod，新加入了一些mod，比如TC的几大拓展、巫术、血魔法、星系、核电工艺、  binnie、Deep Resonance、重力枪还有格雷科技矿脉定位器等辅助mod的加入。极大丰富了游戏内容。并移除了TE。
-客户端:  http://pan.baidu.com/s/1bHop3K  
-服务端+地图:  http://pan.baidu.com/s/1dFvJG1j  
+简介:本周目(Amamiya·SD2 Reload)也就是基于二周目整合重制而来，更新了几乎全部mod，新加入了一些mod，比如TC的几大拓展、巫术、血魔法、星系、核电工艺、     binnie、Deep Resonance、重力枪还有格雷科技矿脉定位器等辅助mod的加入。极大丰富了游戏内容。并移除了TE。   
+客户端:  http://pan.baidu.com/s/1bHop3K   
+服务端+地图:  http://pan.baidu.com/s/1dFvJG1j   
   
   
   
