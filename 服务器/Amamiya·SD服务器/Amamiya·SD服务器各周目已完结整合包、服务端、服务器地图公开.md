@@ -11,21 +11,18 @@
 
 
 #Amamiya·SD8.1周目
-简介:本周目以MineFantasyII(我的幻想2)为核心，同时有roc这样的科技mod，还有ChromatiCraft这样的新奇mod。mod总数只有37，但可玩性还是可以的。
-客户端:http://pan.baidu.com/s/1jH96wV8
-服务端+地图:http://pan.baidu.com/s/1hswt3u8
-
-
-
+简介:本周目以MineFantasyII(我的幻想2)为核心，同时有roc这样的科技mod，还有ChromatiCraft这样的新奇mod。mod总数只有37，但可玩性还是可以的。1.7.10
+客户端:http://pan.baidu.com/s/1jH96wV8  
+服务端+地图:http://pan.baidu.com/s/1hswt3u8  
 #Amamiya·SD8(8周目)  
-简介:1.10.2整合。
+简介:1.10.2整合。  
 
 
 
 #Amamiya·SD7.8(7.8周目)  
 简介:本周目(Amamiya·SD2 Reload)也就是基于二周目整合重制而来，更新了几乎全部mod，新加入了一些mod，比如TC的几大拓展、巫术、血魔法、星系、核电工艺、  binnie、Deep Resonance、重力枪还有格雷科技矿脉定位器等辅助mod的加入。极大丰富了游戏内容。并移除了TE。
-客户端:  http://pan.baidu.com/s/1bHop3K
-服务端+地图:  http://pan.baidu.com/s/1dFvJG1j
+客户端:  http://pan.baidu.com/s/1bHop3K  
+服务端+地图:  http://pan.baidu.com/s/1dFvJG1j  
   
   
   
@@ -41,7 +38,7 @@
 
 
 #Amamiya·SD6(六周目)  
-简介:本周目为1.11.2休闲少量mod生存。(35mods)使用的均为最新的mod版本，可体验到最新的科技，比如chisel & bit，可用于雕刻出一些精美的作品来。有PSI这样的编程魔法mod、也有ActuallyAdditions的最新版本，科技重生也有了很大变化。
+简介:本周目为1.11.2休闲少量mod生存。(35mods)使用的均为最新的mod版本，可体验到最新的科技，比如chisel & bit，可用于雕刻出一些精美的作品来。有PSI这样的编程魔法mod、也有ActuallyAdditions的最新版本，科技重生也有了很大变化。  
 
 客户端:http://pan.baidu.com/s/1c1R1Sy  
 服务端+地图:http://pan.baidu.com/s/1eSgKB1C  
