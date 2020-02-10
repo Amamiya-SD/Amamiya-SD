@@ -12,6 +12,16 @@
 
 介绍：
 
+
+#10周目
+Amamiya·SD10（2周年纪念）
+简介：本周目主题是休闲与建筑，轻工业，mc版本为1.12.2
+下载链接：https://pan.baidu.com/s/19qIElDnNuorIkG9HHf-LuQ 
+提取码：gehw 
+版本号：0.3.1
+OneDrive下载链接：https://1drv.ms/u/s!AgQ4A09xjB9WnSW6JYGZD0jim2Xy?e=WHpWec
+
+
 #9周目
 简介：1周年纪念周目，自制整合
 
